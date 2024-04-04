@@ -1,10 +1,4 @@
-### Hello Github colleague 👋
+### Hello Github world 👋
 
-<!--
-**wyattr-spec/WYATTR-SPEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Content Designer working on services and campaign sites for UK government. I'm interested in workflows for UX and the intersection of content, interaction and user research.
 
-Here are some ideas to get you started:
-
-- 🌱 I'm a Senior Content Designer working on services and campaign sites for UK government.
-
--->
